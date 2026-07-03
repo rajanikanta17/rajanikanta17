@@ -190,7 +190,7 @@ I'm a final-year B.Tech Information Technology student at **IIIT Bhubaneswar**, 
 
 | Degree | Institution | Duration |
 |---|---|---|
-| B.Tech, Information Technology | International Institute of Information Technology, Bhubaneswar (IIIT Bhubaneswar) | `[Start Year] – [End Year]` |
+| B.Tech, Information Technology | International Institute of Information Technology, Bhubaneswar (IIIT Bhubaneswar) | `2023-2027` |
 
 ---
 
