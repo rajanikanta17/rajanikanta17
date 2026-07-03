@@ -13,8 +13,7 @@
 <a href="https://www.linkedin.com/in/rajanikanta-sahu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kantarajani00000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://twitter.com/rajanikanta017"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<!-- add your LeetCode username here -->
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=rajanikanta17&label=Profile%20Views&color=7F00FF&style=for-the-badge" alt="Profile views"/>
@@ -34,7 +33,6 @@ I'm a final-year B.Tech Information Technology student at **IIIT Bhubaneswar**, 
 - ✨ Exploring **GenAI, LLM agents, and RAG pipelines**
 - 🌐 Full-stack developer with the **MERN** stack (React, Node.js, Express, MongoDB)
 - 🧮 Solved **150+ Data Structures & Algorithms problems** in C++
-- 🎯 Targeting Software/AI Engineering roles at **Microsoft · Google · Amazon · Apple**
 
 <br clear="right">
 
@@ -45,7 +43,7 @@ I'm a final-year B.Tech Information Technology student at **IIIT Bhubaneswar**, 
 | 🎓 **Education** | B.Tech, Information Technology — IIIT Bhubaneswar |
 | 💼 **Focus Areas** | AI/ML · Deep Learning · GenAI · Full-Stack Development |
 | 🧪 **Currently Building** | GenAI / LLM-powered projects |
-| 🎯 **Target Roles** | SDE / AI-ML Engineer @ Microsoft · Google · Amazon · Apple |
+| 🎯 **Target Roles** | SDE / AI-ML Engineer |
 
 ---
 
@@ -91,24 +89,6 @@ I'm a final-year B.Tech Information Technology student at **IIIT Bhubaneswar**, 
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajanikanta17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanikanta17&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=rajanikanta17&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajanikanta17&bg_color=0D1117&color=00D9FF&line=7F00FF&point=7F00FF&area=true&area_color=00D9FF&hide_border=true" alt="GitHub activity graph" width="95%"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rajanikanta17&theme=tokyonight&no-bg=true&column=-1&margin-w=15" alt="GitHub trophies"/>
-</p>
 
 ---
 
@@ -227,75 +207,8 @@ I'm a final-year B.Tech Information Technology student at **IIIT Bhubaneswar**, 
 
 `Machine Learning`&nbsp;·&nbsp;`Deep Learning`&nbsp;·&nbsp;`GenAI & LLMs`&nbsp;·&nbsp;`Data Structures & Algorithms`&nbsp;·&nbsp;`Full-Stack Development (MERN)`&nbsp;·&nbsp;`System Design`
 
----
 
-## 🎯 2026 Goals
 
-- [ ] Complete the full AI/ML roadmap — ML → Deep Learning → GenAI → AI Engineering
-- [ ] Solve 300+ DSA problems
-- [ ] Ship 2–3 end-to-end GenAI / LLM-powered projects
-- [ ] Build an industry-grade project (Finance, Healthcare, Recommendations, or E-commerce)
-- [ ] Strengthen full-stack skills with the MERN stack
-- [ ] Contribute to open source consistently
-- [ ] Land a Software/AI-ML Engineering internship
-
----
-
-<details>
-<summary>🐍 <strong>Bonus: add a live contribution snake</strong> (optional, 2-minute setup)</summary>
-<br>
-
-This animates your contribution graph as a snake that "eats" your commits. Once set up, it updates itself daily.
-
-**Setup:**
-1. In your `rajanikanta17/rajanikanta17` repo, create `.github/workflows/snake.yml`
-2. Paste this in:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: rajanikanta17
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Commit it, then trigger it once from the **Actions** tab (it needs one run to create the `output` branch).
-4. Add this to wherever you want the snake to appear:
-
-```html
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajanikanta17/rajanikanta17/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajanikanta17/rajanikanta17/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rajanikanta17/rajanikanta17/output/github-snake.svg" />
-</picture>
-```
-
-</details>
-
----
 
 ## 📫 Let's Connect
 
@@ -305,7 +218,6 @@ jobs:
 <a href="https://www.linkedin.com/in/rajanikanta-sahu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kantarajani00000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://twitter.com/rajanikanta017"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 </div>
 
